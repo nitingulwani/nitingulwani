@@ -6,7 +6,6 @@
 
 - 🎓 &nbsp; Studying Computer Science at [VIT Bhopal](https://vitbhopal.ac.in/).
 - 💻 &nbsp; Core member at Seds Nebula.
-- 🚖 &nbsp; Currently working on the project [PoolIIIT](https://github.com/divyamagwl/PoolIIIT).
 - 🚩 &nbsp; Campus Ambassador at TribeVibe.
 - 💼 &nbsp; Worked as an Intern at IIMUN.
 - 🌱 &nbsp; Always ready to explore and learn.
