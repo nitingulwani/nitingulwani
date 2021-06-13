@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; Studying Computer Science at [VIT Bhopal](https://vitbhopal.ac.in/).
 - 💻 &nbsp; Core member at Seds Nebula.
-- 🚩 &nbsp; Campus Ambassador at TribeVibe.
+- 🚩 &nbsp; Campus Ambassador at TribeVibe and GeeksForGeeks.
 - 💼 &nbsp; Worked as an Intern at IIMUN.
 - 🌱 &nbsp; Always ready to explore and learn.
 
