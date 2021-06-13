@@ -31,6 +31,8 @@
 <img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
 <!-- VSCode -->
 <img width="45" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+<img width="45" src="https://www.vectorlogo.zone/logos/android/android-icon.svg">
+<img width="45" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
 
 <h3>:octocat: &nbsp;Github Stats</h3>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitingulwani&include_all_commits=true&show_icons=true&bg_color=70,36D1DC,5B86E5&title_color=fff&text_color=fff&icon_color=fff"/>
