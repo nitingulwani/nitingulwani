@@ -5,9 +5,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
 
 - 🎓 &nbsp; Studying Computer Science at [VIT Bhopal](https://vitbhopal.ac.in/).
-- 💻 &nbsp; Core member at Seds Nebula.
+- 💻 &nbsp; Core member at GDSC VIT Bhopal, Seds Nebula and Club Anterix.
 - 🚩 &nbsp; Campus Ambassador at TribeVibe and GeeksForGeeks.
-- 💼 &nbsp; Worked as an Intern at IIMUN.
+- 💼 &nbsp; Ex-Intern at IIMUN.
 - 🌱 &nbsp; Always ready to explore and learn.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
